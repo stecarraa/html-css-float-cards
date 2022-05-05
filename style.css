@@ -31,6 +31,13 @@ img{
     max-width: 33%;
     margin-bottom: 30px;
 }
+.container2{
+    background-color: black;
+    height: 100px;
+    max-width: 33%;
+    margin-bottom: 30px;
+   
+}
 
 .name{
     color: antiquewhite;
