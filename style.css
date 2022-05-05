@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-.title{
+body{
 text-align: center;
 max-width: 1000px;
 margin: 0 auto;
@@ -16,4 +16,35 @@ margin: 0 auto;
 
 .title p{
     padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+img{
+    float: left;
+    height: 100px;
+    margin-right: 15px;
+}
+
+.container{
+    background-color: black;
+    height: 100px;
+    max-width: 33%;
+    margin-bottom: 30px;
+}
+
+.name{
+    color: antiquewhite;
+    text-align: left;
+    padding: 5px;
+    
+}
+.occupation{
+    color: antiquewhite;
+    text-align: left;
+    padding: 5px;
+}
+.mail{
+    color: antiquewhite;
+    text-align: left;
+    padding: 5px;
 }
